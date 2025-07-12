@@ -1,6 +1,6 @@
 # Todo List App
 
-A simple todo list web application built using HTML, CSS, and JavaScript.
+A simple todo list web application built using HTML, CSS, and JavaScript and typescript 
 
 ## Features
 
@@ -12,7 +12,7 @@ A simple todo list web application built using HTML, CSS, and JavaScript.
 
 ### Adding Task
 
-![Screenshot](screenshots/
+![Screenshot](screenshots/add1.png)
 ![Screenshot](screenshots/add2.png)
 <!-- ![Screenshot](screenshots/add-3.png) -->
 
